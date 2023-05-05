@@ -80,8 +80,8 @@ Cosmos Blockchain
 
 ## Setting up a Cosmos Blockchain
 
--[ ] Install the Cosmos SDK
--[ ] Initialize a new Cosmos Blockchain
+- [ ] Install the Cosmos SDK
+- [ ] Initialize a new Cosmos Blockchain
 
 Run the following command to create a new Cosmos Blockchain
 
